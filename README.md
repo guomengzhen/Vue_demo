@@ -1,7 +1,6 @@
 # vue-cms-blank
 
- 找项目
-      0.0 面试的时候没有人要求你的项目是在公司做的，没有限制你在什么时间什么地点做的这个项目
+ 
       0.1 github上找一些开源的项目，试着下载下来，看能不能跑起来，如果可以的话，可以研究一下对应的代码
       0. https://github.com/Resident-Evil/vue-vuex-iview-webpack
       1. https://github.com/zxcvb2850/comPorject
