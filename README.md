@@ -9,7 +9,7 @@
       5. https://github.com/Ery98k/dxm-vue-dist
       6. https://github.com/yyhaxx/yiyuangou-vue2
       7. https://github.com/beisir/mobile.MMT
-      8. https://github.com/194277665/VueAPPs
+      8. https://github.com/194277665/VueAPPs              
       9. https://github.com/zoroer/vueCompany
       10. 把我们后面的这个项目当做在上班
         + 有问题第一时间去百度查文档、看报错信息解决
