@@ -7,7 +7,7 @@
     </p>
     <div class="content" v-html='newinfo.content'></div>
 
-     <Comment-Box></Comment-Box>
+     <Comment-Box :id='id'></Comment-Box>
   </div>
 </template>
 <script>
@@ -30,7 +30,9 @@ export default {
               res=>{
                 //   console.log(res);
                   this.newinfo=res.body.message[0]
-                  console.log(this.newinfo);
+                //   console.log(this.newinfo);
+                //   console.log(this.id);
+                  
                   
               }
           )
